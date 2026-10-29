@@ -1,0 +1,21 @@
+{
+  "architecture": "resnet18",
+  "classes": [
+    "1",
+    "2",
+    "3"
+  ],
+  "img_size": 224,
+  "mean": [
+    0.485,
+    0.456,
+    0.406
+  ],
+  "std": [
+    0.229,
+    0.224,
+    0.225
+  ],
+  "test_accuracy": 0.9739130434782609,
+  "dropout_head": true
+}
